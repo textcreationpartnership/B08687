@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge and impeachment exhibited against the bloody judges of our late royal-martyred King Charles with His Majesties proclamation, touching the horrid murtherers of his royal father of blessed memory, and the most horrid and execrable treason committed upon the royall diadem, crown, septer, and dignity, contrary to the known laws of the land and the peoples liberty, with the resolves of Parliament, touching Hugh Peters, and Cornet Joyce, and the rest of the wicked actors that committed the most barbarous and horrid murther in cutting off the precious head of our late gracious lord and soveraign King Charles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08687</idno>
+            <idno type="STC">Wing C2047A</idno>
+            <idno type="STC">ESTC R173669</idno>
+            <idno type="EEBO-CITATION">62369089</idno>
+            <idno type="OCLC">ocm 62369089</idno>
+            <idno type="VID">187827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187827)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2846:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge and impeachment exhibited against the bloody judges of our late royal-martyred King Charles with His Majesties proclamation, touching the horrid murtherers of his royal father of blessed memory, and the most horrid and execrable treason committed upon the royall diadem, crown, septer, and dignity, contrary to the known laws of the land and the peoples liberty, with the resolves of Parliament, touching Hugh Peters, and Cornet Joyce, and the rest of the wicked actors that committed the most barbarous and horrid murther in cutting off the precious head of our late gracious lord and soveraign King Charles.</title>
+                  <author>English and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at White-Hall the 6th day of June 1660 in the twelfth year of our reign."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660.</term>
+               <term>Joyce, Cornet.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Regicides --  England --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187827:1"/>
+            <pb facs="tcp:187827:1"/>
+            <p>THE CHARGE AND IMPEACHMENT EXHIBITED Againſt the Bloody JUDGES of our late Royal-Martyred KING CHARLES.</p>
+            <p>WITH
+<list>
+                  <item>His <hi>Majesties</hi> Proclamation, touching the horrid Murtherers of His Royal Father of bleſſed memory; and the moſt horrid and Execrable Treaſon committed upon the Roy<g ref="char:EOLhyphen"/>all <hi>Diadem, Crown, Scepter,</hi> and <hi>Dignity,</hi> contrary to the known Laws of the Land, and the <hi>Peoples Liberty.</hi>
+                  </item>
+                  <item>With the Reſolves of <hi>Parliament,</hi> touching <hi>Hugh Peters,</hi> and Cornet <hi>Joyce,</hi> and the reſt of the Wicked Actors that committed the moſt Barbarous and horrid Murther in cutting off the precious Head of our late Gracious Lord and Soveraign King <hi>CHARLES.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> living near the Three Crowns in Barbican, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preamble">
+            <pb facs="tcp:187827:2"/>
+            <pb n="3" facs="tcp:187827:2"/>
+            <head>The Royal Summons.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He poſitive judicial Law of God, is; <hi>That who<g ref="char:EOLhyphen"/>ſoever ſheddeth mans blood, by man ſhall his blood be ſhed. Gen.</hi> 9.6. And the reaſon is there ren<g ref="char:EOLhyphen"/>dred, becauſe ſuch deſtroy Gods Image where<g ref="char:EOLhyphen"/>in man is made: And the cry of blood (if not puniſhed by man) is ſo great. <hi>Gen.</hi> 4.10. That the Lord comes down from heaven to call the murtherer to account, and by ſome viſible, and remarkable judgements or other, to ſtigmatize this ſin, as theſe following examples will more fully manifeſt, <hi>viz.</hi> Murtherers ought to be puniſhed with death. <hi>Gen.</hi> 9.6. <hi>Exod.</hi> 21.12. Prov. 28.17. <hi>Rev.</hi> 13.10. No recompence is to be taken for it, <hi>Num.</hi> 35.32, <hi>&amp;c.</hi> For it defiles the Land. <hi>Hoſ.</hi> 4.2 3. Its diligently to be ſought out. <hi>Deut.</hi> 21.1, <hi>&amp;c.</hi> God puniſheth it head. <hi>Pſal.</hi> 55.23. It excludes from heaven. <hi>Gal.</hi> 5.1. <hi>Rev.</hi> 21.8. Sundry other Scriptural Examples might we here inſtance; As in the caſe of <hi>Pharaob, Abimelech, Abſalom, Manaſſeh, A<g ref="char:EOLhyphen"/>hab,</hi> and <hi>Jezabel, Zimri, Herod, Shallum, Manahem, Baa<g ref="char:EOLhyphen"/>nah, Rechab,</hi> and <hi>Cain,</hi> the latter being curſed by God for murthering his Brother, <hi>Gen.</hi> 4. The other two preceding,
+<pb n="4" facs="tcp:187827:3"/>were ſlain by the command of <hi>David,</hi> for killing their Lord <hi>Iſhboſheth.</hi>
+            </p>
+            <p>And ſhall not ſuch who are guilty of <hi>Innocent Blood,</hi> nay <hi>Royal Blood,</hi> be called to an account? yes, otherwiſe God forbid. In order whereunto, the Lords and Commons Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, taking into their ſerious and Chri<g ref="char:EOLhyphen"/>ſtian conſideration, the moſt horrid and execrable Treaſon and Murther committed upon the Perſon and againſt the Life of our late Lord and Soveraign King <hi>Charles</hi> the Firſt, of Bleſſed Memory, Declared their abſolute deteſtation againſt ſo abhorred an Act; And having made a large progreſs upon the Act for a General Pardon and Oblivion, It was the Reſult of both Houſes; That Colonel <hi>Harriſon,</hi> Collonel <hi>Barkſtead, Thomas Scot, Cornelius Holland, John Liſle, William Say,</hi> and <hi>John Jones,</hi> be exempted from the benefit of the Act for a General Pardon, and Oblivion, for murdering of His Royal Majeſty, of bleſſed memory.</p>
+            <p>As alſo, that <hi>Andrew Broughton,</hi> one of the Clerks to the pretended High Court of Juſtice, and <hi>Edward Dendy,</hi> Sergeant at Arms to the ſaid pretended High Court, be likewiſe excepted from the benefit of the Act for a Ge<g ref="char:EOLhyphen"/>neral Pardon; and the other perſons alſo who were con<g ref="char:EOLhyphen"/>cerned in the cutting off the head of His late Majeſty of ever glorious memory, to be alſo excepted: Hereupon the Honourable Houſes of Parliament Ordered, That <hi>George Joyce (that ſon of Perdition)</hi> commonly known by the name of Cornet <hi>Joyce,</hi> and <hi>Hugh Peters (one of Baals Butcherly Prieſts)</hi> be taken into Cuſtody, and that the Ser<g ref="char:EOLhyphen"/>jeant at Arms attending the Parliament, do take the ſaid <hi>George Joyce,</hi> and <hi>Hugh Peters,</hi> in ſafe cuſtody, which was accordingly performed.</p>
+            <p>And whereas there are divers other perſons who ſate, gave judgement, and aſſiſted in that horrid and deteſtable
+<pb n="5" facs="tcp:187827:3"/>Murder of our late Lord and Soveraign King <hi>Charles,</hi> of never dying memory, being deeply guilty thereof, and of that moſt horrid and bloody Treaſon, have out of the ſenſe of their own guilt, lately fled and obſcured themſelves, whereby they cannot be apprehended and brought to a per<g ref="char:EOLhyphen"/>ſonal and legel Trial for their ſaid Treaſons according to Law: His Majeſty therefore by the Advice of the Lords and Commons Aſſembled in Parliament, hath comman<g ref="char:EOLhyphen"/>ded a Proclamation to be publiſhed, ſummoning all ſuch perſons therein ſpecified, to appear and render themſelves within fourteen dayes, under pain of being exempted from Pardon.</p>
+            <p>Theſe are thoſe, that Ambitiouſly aſpired to that exceſs of Dominion, as if themſelves ſhould never be brought to Judgement; whereas, indeed, the Dignity of the Throne, and the Soveraignty of the Scepter, is no Boon of Fortune, or thing of chance; for <hi>Promotion cometh neither from the Eaſt, nor from the Weſt, nor from the South;</hi> neither by con<g ref="char:EOLhyphen"/>federacy of Deſigns, nor fortuitouſneſs of Events: But, Government is <hi>Gods</hi> Ordinance, and Governours are all ac<g ref="char:EOLhyphen"/>countable to Him as Supream; the higheſt Empire, it is <hi>ſub Jove Emperium, God is the Judge, he pulleth down one, and ſetteth up another;</hi> And when he does it by Divine Ordinati<g ref="char:EOLhyphen"/>on, it is a Regular Providence, putting a <hi>period</hi> to the <hi>Royal Line</hi> of one Family, and by transferring the right of Power to another. And whom <hi>GOD</hi> ſets up by a Divine Ordina<g ref="char:EOLhyphen"/>tion let them look to't, who reſiſt his lawfull Dominion: For, <hi>in the hand of the Lord there is a Cup,</hi> a Cup of Wrath, <hi>whoſe Wine is red and full of mixture;</hi> That is, whoſe Judge<g ref="char:EOLhyphen"/>ments are grievous and full of horrour. And where He finds a Diſobedience to juſt Authority, there he powrs forth of his Cup of Fury; The top whereof, the ſimple and ſe<g ref="char:EOLhyphen"/>duced
+<pb n="6" facs="tcp:187827:4"/>ſhall drink to their Chaſtiſement and Correction, but the maliciouſly wicked ſhall drink up all, nay, ſuck out the dregs thereof to <hi>their temporal ruine and eternal destruction.</hi> But, as for the Execution of this Wrath, we muſt leave it un<g ref="char:EOLhyphen"/>to <hi>God;</hi> for our moſt Gracious Soveraign <hi>Charles the Second,</hi> by Inheritance and <hi>Divine Providence,</hi> King of <hi>Great Brittain, &amp;c.</hi> is full of Clemencie and Meekneſs, and may truly be ſtiled <hi>The Mirrour of Princes;</hi> as appears by his late graci<g ref="char:EOLhyphen"/>ous Pardon: But many being deeply guilty of that moſt deteſtable and bloody Treaſon, in paſſing Judgement and Sentence of Death upon our late Martyred King <hi>Charles the Firſt</hi> of happy memory; and endeavouring to eſcape the hand of Juſtice by flight; His moſt Sacred and inimitable Majeſty <hi>Charles the Second,</hi> by the advice of His Lords and Commons aſſembled in Parliament, commanded the en<g ref="char:EOLhyphen"/>ſuing <hi>Proclamation</hi> to be forthwith publiſhed, <hi>viz.</hi>
+            </p>
+         </div>
+         <div type="Royal_proclamation">
+            <pb n="7" facs="tcp:187827:4"/>
+            <head>By the King.</head>
+            <head type="sub">A <hi>Proclamation</hi> to ſummon the Perſons therein named, who ſate, gave Judgement, and aſſiſted in that horrid and deteſtable <hi>murther</hi> of his Majeſties Royal Father of bleſ<g ref="char:EOLhyphen"/>ſed memory, to appear and render themſelves within Fourteen dayes, under pain of being exempted from Pardon.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <opener>
+               <signed>CHARLES, by the grace of God, King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> 
+               </signed>
+               <salute>To all Our loving Subjects of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> Grée<g ref="char:EOLhyphen"/>ting.</salute>
+            </opener>
+            <p>We taking notice by the information of Dar Lords and Commons now Aſſembled in Parliament, of the moſt horrid and execrable Treaſon and Marder committed upon the Perſon, and againſt the Life, Crown and Dignity of Our late Royal Father <hi>Charles</hi> the firſt of bleſſed Memory: And that <hi>John Liſle, Willi<g ref="char:EOLhyphen"/>am Say,</hi> Eſquires, Sir <hi>Hardreſs Waller, Valentine Wauton, Ed<g ref="char:EOLhyphen"/>ward Whalley,</hi> Eſquires, Sir <hi>John Bourchier</hi> Knight, <hi>William Heveningham</hi> Eſquire, <hi>Iſaac Pennington</hi> Alderman of <hi>London, Henry Martin, John Barkſtead, Gilbert Millington, Edmund Ludlow, John Hutchinſon</hi> Eſquires, Sir <hi>Michael Liveſay</hi> Bare<g ref="char:EOLhyphen"/>net, <hi>Robert Tichborne, Owen Roe, Robert Lilburn, Adrian Scroope, John Okey, John Hewſon, William Goffe, Cornelius Holland, John Carew, Miles Corbet, Henry Smith, Thomas Wogam, Edmund Harvey, Thomas Scot, William Cawley, John Downs, Nicholas Love, Vincent Potter, Auguſtine Garland, John Dixwel, George Fleetwood, Simon Meyne, Jame; Temple, Pe<g ref="char:EOLhyphen"/>ter Temple, Daniel Blagrave</hi> and <hi>Thomas Weight</hi> Eſquires, be<g ref="char:EOLhyphen"/>ing deeply Guilty of that moſt deteſtable and Bloody Treaſon, in ſitting upon, and giving Judgement againſt the Life of Our Royal Father; And alſo <hi>John Cooke,</hi> who was imployed there<g ref="char:EOLhyphen"/>in as Sollicitor, <hi>Andrew Broughton</hi> and <hi>John Phelps,</hi> who were imployed under the ſaid perſons as Clerks, and <hi>Edward Denby</hi>
+               <pb n="8" facs="tcp:187827:5"/>who attended them as Serjeant at Armes, have out of the ſence of their own Guilt lately ſted and obſcured themſelves, whereby they cannot be apprehended and brought to a perſonal and legal Trial for their ſaid Treaſons according to Law. We do there<g ref="char:EOLhyphen"/>fore by the Advice of Our ſaid Lords and Commons, Command, Publiſh, and Declare by this Our Proclamation, That all and every the perſons before named ſhall within Fourteen dayes next after the publiſhing of this Our Royal Proclamation, perſonally appear and render themſelves to the Speaker or Speakers of Our Houſe of Péers or Comnions, or unto Our Lord Mayor of Our City of <hi>London,</hi> or to the Sheriffs of Our reſpective Counties of <hi>England</hi> and <hi>Wales,</hi> under pain of being excepted from any Par<g ref="char:EOLhyphen"/>don or Indempnity both for their reſpectivs Lives and Eſtates: And that no perſon or perſons ſhall preſume to harbour or conceal any of the perſons aforeſaid, under pain of Miſpriſion of High Treaſon.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>White-Hall</hi> 
+                  <date>the 6th. day of <hi>June</hi> 1660. in the Twelfth year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187827:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
